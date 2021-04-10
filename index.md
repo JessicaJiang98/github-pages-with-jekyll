@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Hi There
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. This is a tutorial for building github page with jekyll
